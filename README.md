@@ -17,7 +17,7 @@ I am a **Software Development Student** with a passion for clean code, robust ar
 - **Testing:** Vitest (my go-to for TDD)
 
 ### 📈 GitHub Stats
-![Markiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markiza666&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Markiza666&show_icons=true" alt="Markiza's GitHub stats" />
 
 ---
 
