@@ -16,9 +16,6 @@ I am a **Software Development Student** with a passion for clean code, robust ar
 - **Backend:** Node.js, Express, MongoDB
 - **Testing:** Vitest (my go-to for TDD)
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Markiza666&show_icons=true" alt="Markiza's GitHub stats" />
-
 ---
 
 ### ☕ Fun Fact
