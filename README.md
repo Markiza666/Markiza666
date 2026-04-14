@@ -24,4 +24,4 @@ I am a **Software Development Student** with a passion for clean code, robust ar
 I write my code and comments in English, but my sense of humor is best served in Swedish. When I'm not hunting bugs, I'm likely hunting for the perfect cup of coffee.
 
 ---
-📫 **Let's connect!** markiza.eriksson@gmail.com
+📫 **Let's connect!** [markiza.eriksson@gmail.com](mailto:markiza.eriksson@gmail.com)
