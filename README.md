@@ -1,4 +1,5 @@
 # Hi, I'm Markiza! 👋 
+
 ### Full-stack Developer Student | TypeScript & React Enthusiast | 100% Test Coverage Advocate
 
 I am a **Software Development Student** with a passion for clean code, robust architecture, and the satisfying feeling of a green terminal after a successful test run. Based in Västerbotten, Sweden, I build digital solutions with a focus on quality and structure.
@@ -16,7 +17,7 @@ I am a **Software Development Student** with a passion for clean code, robust ar
 - **Testing:** Vitest (my go-to for TDD)
 
 ### 📈 GitHub Stats
-![Markiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markiza666&show_icons=true&theme=radical)
+![Markiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markiza666&show_icons=true&theme=dark)
 
 ---
 
